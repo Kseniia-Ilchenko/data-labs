@@ -4,7 +4,7 @@ Created on Fri Nov  5 08:04:09 2021
 
 @author: HP
 """
-print ("conflict")
+print ("main")
 from pandas import DataFrame
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
